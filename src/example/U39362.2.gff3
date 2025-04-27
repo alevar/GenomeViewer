@@ -1,0 +1,34 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region U39362.2 1 9713
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+U39362.2	Genbank	region	1	9713	.	+	.	ID=U39362.2:1..9713;Dbxref=taxon:11676;clone-lib=subgenomic lambda phage library of HMW;gb-synonym=HIV-1;gbkey=Src;genome=proviral;mol_type=genomic DNA;note=from short-term culture in mixed peripheral blood mononuclear cells.;old-name=Human immunodeficiency virus type 1;strain=89.6
+U39362.2	Genbank	long_terminal_repeat	1	634	.	+	.	ID=id-U39362.2:1..634;Note=5' LTR;gbkey=LTR
+U39362.2	Genbank	gene	789	2291	.	+	.	ID=gene-gag;Name=gag;gbkey=Gene;gene=gag;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	789	2291	.	+	0	ID=cds-AAA81036.1;Parent=gene-gag;Dbxref=NCBI_GP:AAA81036.1;Name=AAA81036.1;gbkey=CDS;gene=gag;product=GAG polyprotein precursor;protein_id=AAA81036.1
+U39362.2	Genbank	gene	2084	5095	.	+	.	ID=gene-pol;Name=pol;gbkey=Gene;gene=pol;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	2084	5095	.	+	0	ID=cds-AAA81037.1;Parent=gene-pol;Dbxref=NCBI_GP:AAA81037.1;Name=AAA81037.1;gbkey=CDS;gene=pol;partial=true;product=POL polyprotein precursor;protein_id=AAA81037.1;start_range=.,2084
+U39362.2	Genbank	gene	5040	5618	.	+	.	ID=gene-vif;Name=vif;gbkey=Gene;gene=vif;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	5040	5618	.	+	0	ID=cds-AAA81038.1;Parent=gene-vif;Dbxref=NCBI_GP:AAA81038.1;Name=AAA81038.1;gbkey=CDS;gene=vif;partial=true;product=VIF protein;protein_id=AAA81038.1;start_range=.,5040
+U39362.2	Genbank	gene	5558	5848	.	+	.	ID=gene-vpr;Name=vpr;gbkey=Gene;gene=vpr;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	5558	5848	.	+	0	ID=cds-AAA81039.1;Parent=gene-vpr;Dbxref=NCBI_GP:AAA81039.1;Name=AAA81039.1;gbkey=CDS;gene=vpr;product=VPR protein;protein_id=AAA81039.1
+U39362.2	Genbank	gene	5829	8458	.	+	.	ID=gene-tat;Name=tat;gbkey=Gene;gene=tat;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	5829	6042	.	+	0	ID=cds-AAA81040.1;Parent=gene-tat;Dbxref=NCBI_GP:AAA81040.1;Name=AAA81040.1;gbkey=CDS;gene=tat;product=TAT protein;protein_id=AAA81040.1
+U39362.2	Genbank	CDS	8370	8458	.	+	2	ID=cds-AAA81040.1;Parent=gene-tat;Dbxref=NCBI_GP:AAA81040.1;Name=AAA81040.1;gbkey=CDS;gene=tat;product=TAT protein;protein_id=AAA81040.1
+U39362.2	Genbank	gene	5968	8642	.	+	.	ID=gene-rev;Name=rev;gbkey=Gene;gene=rev;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	5968	6042	.	+	0	ID=cds-AAA81041.1;Parent=gene-rev;Dbxref=NCBI_GP:AAA81041.1;Name=AAA81041.1;gbkey=CDS;gene=rev;product=REV protein;protein_id=AAA81041.1
+U39362.2	Genbank	CDS	8370	8642	.	+	0	ID=cds-AAA81041.1;Parent=gene-rev;Dbxref=NCBI_GP:AAA81041.1;Name=AAA81041.1;gbkey=CDS;gene=rev;product=REV protein;protein_id=AAA81041.1
+U39362.2	Genbank	gene	6060	6302	.	+	.	ID=gene-vpu;Name=vpu;gbkey=Gene;gene=vpu;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	6060	6302	.	+	0	ID=cds-AAA81042.1;Parent=gene-vpu;Dbxref=NCBI_GP:AAA81042.1;Name=AAA81042.1;gbkey=CDS;gene=vpu;product=VPU protein;protein_id=AAA81042.1
+U39362.2	Genbank	gene	6223	8784	.	+	.	ID=gene-env;Name=env;gbkey=Gene;gene=env;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	6223	8784	.	+	0	ID=cds-AAA81043.2;Parent=gene-env;Dbxref=NCBI_GP:AAA81043.2;Name=AAA81043.2;gbkey=CDS;gene=env;product=ENV polyprotein precursor;protein_id=AAA81043.2
+U39362.2	Genbank	mature_protein_region_of_CDS	6223	7746	.	+	.	ID=id-AAA81043.2:1..508;Parent=cds-AAA81043.2;gbkey=Prot;product=glycoprotein 120
+U39362.2	Genbank	mature_protein_region_of_CDS	7747	8781	.	+	.	ID=id-AAA81043.2:509..853;Parent=cds-AAA81043.2;gbkey=Prot;product=glycoprotein 41
+U39362.2	Genbank	gene	8786	9400	.	+	.	ID=gene-nef;Name=nef;gbkey=Gene;gene=nef;gene_biotype=protein_coding
+U39362.2	Genbank	CDS	8786	9400	.	+	0	ID=cds-AAA81044.1;Parent=gene-nef;Dbxref=NCBI_GP:AAA81044.1;Name=AAA81044.1;gbkey=CDS;gene=nef;product=NEF protein;protein_id=AAA81044.1
+U39362.2	Genbank	long_terminal_repeat	9078	9713	.	+	.	ID=id-U39362.2:9078..9713;Note=3' LTR;gbkey=LTR
+U39362.2	Genbank	repeat_region	9078	9531	.	+	.	ID=id-U39362.2:9078..9531;Note=U3 region;gbkey=repeat_region;rpt_type=other
+U39362.2	Genbank	repeat_region	9532	9628	.	+	.	ID=id-U39362.2:9532..9628;Note=R region;gbkey=repeat_region;rpt_type=other
+U39362.2	Genbank	repeat_region	9629	9713	.	+	.	ID=id-U39362.2:9629..9713;Note=U5 region;gbkey=repeat_region;rpt_type=other
+

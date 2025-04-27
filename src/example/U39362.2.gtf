@@ -1,0 +1,31 @@
+U39362.2	Genbank	transcript	789	2291	.	+	.	transcript_id "gene-gag"; gene_id "gene-gag"; gene_name "gag"
+U39362.2	Genbank	exon	789	2291	.	+	.	transcript_id "gene-gag"; gene_name "gag";
+U39362.2	Genbank	CDS	789	2291	.	+	0	transcript_id "gene-gag"; gene_name "gag";
+U39362.2	Genbank	transcript	2084	5095	.	+	.	transcript_id "gene-pol"; gene_id "gene-pol"; gene_name "pol"
+U39362.2	Genbank	exon	2084	5095	.	+	.	transcript_id "gene-pol"; gene_name "pol";
+U39362.2	Genbank	CDS	2084	5095	.	+	0	transcript_id "gene-pol"; gene_name "pol";
+U39362.2	Genbank	transcript	5040	5618	.	+	.	transcript_id "gene-vif"; gene_id "gene-vif"; gene_name "vif"
+U39362.2	Genbank	exon	5040	5618	.	+	.	transcript_id "gene-vif"; gene_name "vif";
+U39362.2	Genbank	CDS	5040	5618	.	+	0	transcript_id "gene-vif"; gene_name "vif";
+U39362.2	Genbank	transcript	5558	5848	.	+	.	transcript_id "gene-vpr"; gene_id "gene-vpr"; gene_name "vpr"
+U39362.2	Genbank	exon	5558	5848	.	+	.	transcript_id "gene-vpr"; gene_name "vpr";
+U39362.2	Genbank	CDS	5558	5848	.	+	0	transcript_id "gene-vpr"; gene_name "vpr";
+U39362.2	Genbank	transcript	5829	8458	.	+	.	transcript_id "gene-tat"; gene_id "gene-tat"; gene_name "tat"
+U39362.2	Genbank	exon	5829	6042	.	+	.	transcript_id "gene-tat"; gene_name "tat";
+U39362.2	Genbank	exon	8370	8458	.	+	.	transcript_id "gene-tat"; gene_name "tat";
+U39362.2	Genbank	CDS	5829	6042	.	+	0	transcript_id "gene-tat"; gene_name "tat";
+U39362.2	Genbank	CDS	8370	8458	.	+	2	transcript_id "gene-tat"; gene_name "tat";
+U39362.2	Genbank	transcript	5968	8642	.	+	.	transcript_id "gene-rev"; gene_id "gene-rev"; gene_name "rev"
+U39362.2	Genbank	exon	5968	6042	.	+	.	transcript_id "gene-rev"; gene_name "rev";
+U39362.2	Genbank	exon	8370	8642	.	+	.	transcript_id "gene-rev"; gene_name "rev";
+U39362.2	Genbank	CDS	5968	6042	.	+	0	transcript_id "gene-rev"; gene_name "rev";
+U39362.2	Genbank	CDS	8370	8642	.	+	0	transcript_id "gene-rev"; gene_name "rev";
+U39362.2	Genbank	transcript	6060	6302	.	+	.	transcript_id "gene-vpu"; gene_id "gene-vpu"; gene_name "vpu"
+U39362.2	Genbank	exon	6060	6302	.	+	.	transcript_id "gene-vpu"; gene_name "vpu";
+U39362.2	Genbank	CDS	6060	6302	.	+	0	transcript_id "gene-vpu"; gene_name "vpu";
+U39362.2	Genbank	transcript	6223	8784	.	+	.	transcript_id "gene-env"; gene_id "gene-env"; gene_name "env"
+U39362.2	Genbank	exon	6223	8784	.	+	.	transcript_id "gene-env"; gene_name "env";
+U39362.2	Genbank	CDS	6223	8784	.	+	0	transcript_id "gene-env"; gene_name "env";
+U39362.2	Genbank	transcript	8786	9400	.	+	.	transcript_id "gene-nef"; gene_id "gene-nef"; gene_name "nef"
+U39362.2	Genbank	exon	8786	9400	.	+	.	transcript_id "gene-nef"; gene_name "nef";
+U39362.2	Genbank	CDS	8786	9400	.	+	0	transcript_id "gene-nef"; gene_name "nef";

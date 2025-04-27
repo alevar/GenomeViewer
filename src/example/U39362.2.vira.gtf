@@ -1,0 +1,12 @@
+U39362.2	VIRA	transcript	454	9626	.	+	.	transcript_id "Rev.1"; gene_id "Rev"; aln_start "453"; cds_source "miniprot"; cigar "289M5216N85M2324N446M1D3M1I39M7D1M2D70M6I305M2I2M1I7M3I143M5D228M"; identity_miniprot "0.8707"; vira_tx_aln_score "1.0";
+U39362.2	VIRA	exon	454	742	.	+	.	transcript_id "Rev.1"; gene_id "Rev";
+U39362.2	VIRA	exon	5959	6043	.	+	.	transcript_id "Rev.1"; gene_id "Rev";
+U39362.2	VIRA	exon	8368	9626	.	+	.	transcript_id "Rev.1"; gene_id "Rev";
+U39362.2	VIRA	CDS	5968	6043	.	+	0	transcript_id "Rev.1"; gene_id "None"; Identity "0.8462"; Rank "1"; Target "Rev.1 1 25";
+U39362.2	VIRA	CDS	8368	8642	.	+	2	transcript_id "Rev.1"; gene_id "None"; Identity "0.8778"; Rank "1"; Target "Rev.1 26 116";
+U39362.2	VIRA	transcript	454	9626	.	+	.	transcript_id "Tat.1"; gene_id "Tat"; aln_start "453"; cds_source "miniprot"; cigar "289M5033N268M2324N446M1D3M1I39M7D1M2D70M6I305M12I1M6I11M10D2M2D126M5D228M"; identity_miniprot "0.8953"; vira_tx_aln_score "1.0";
+U39362.2	VIRA	exon	454	742	.	+	.	transcript_id "Tat.1"; gene_id "Tat";
+U39362.2	VIRA	exon	5776	6043	.	+	.	transcript_id "Tat.1"; gene_id "Tat";
+U39362.2	VIRA	exon	8368	9626	.	+	.	transcript_id "Tat.1"; gene_id "Tat";
+U39362.2	VIRA	CDS	5829	6043	.	+	0	transcript_id "Tat.1"; gene_id "None"; Identity "0.8889"; Rank "1"; Target "Tat.1 1 71";
+U39362.2	VIRA	CDS	8368	8410	.	+	1	transcript_id "Tat.1"; gene_id "None"; Identity "0.9286"; Rank "1"; Target "Tat.1 72 86";
